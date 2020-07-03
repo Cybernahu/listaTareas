@@ -1,0 +1,75 @@
+.input-agregar{
+    
+    display: block;
+    margin-left: 38%;
+    margin-bottom: 3%;
+    margin-top: 2%;
+    width: 25%;
+    text-align: center;
+    border-radius: 33px;
+}
+.btn-agregar{
+    display: block;
+    margin-left: 45%;
+    height: 40px;
+    width: 10%;
+    border-radius: 33px;
+    background-color: rgb(253, 115, 157);
+    font-size: 15px;
+    font-family: 'Righteous', cursive;
+}
+.bg-top{
+    width: 100%;
+    background-image: url(https://i.pinimg.com/originals/a4/50/22/a4502277be8ee064226e8f6ed844d6e3.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+body {
+    width: 100%;
+    background-image: url(https://www.medoro.com.ar/spree/products/950/large/color-salmon.jpg?1543941847);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.main-ul{
+    
+    width: 90%;
+    display: block;
+    position: absolute;
+    text-align: center;
+    margin-top: 10%;
+    text-align: center;
+    font-family: 'MuseoModerno', cursive;
+    height: auto;
+    text-decoration: none;
+    color: black;
+}
+.lista .tareas a li:hover{
+    text-decoration: line-through;
+}
+.tareas .lista li a{
+    padding: 20px 0px;
+    font-family: 'MuseoModerno', cursive;
+    height: auto;
+    text-decoration: none;
+    color: black;
+}
+
+.error{
+    display: block;
+    margin-left: 38%;
+    margin-bottom: 3%;
+    margin-top: 2%;
+    width: 25%;
+    text-align: center;
+    border-radius: 33px;
+    border: 2px solid red;
+    text-decoration-color: red;
+}
+.footer{
+    position: absolute;
+    bottom: 0%;
+}
+
